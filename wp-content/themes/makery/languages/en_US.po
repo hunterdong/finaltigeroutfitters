@@ -1,0 +1,3535 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Makery\n"
+"POT-Creation-Date: 2016-03-22 00:43+0100\n"
+"PO-Revision-Date: 2016-03-22 00:44+0100\n"
+"Last-Translator: \n"
+"Language-Team: Themex\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-KeywordsList: _e;__;_n:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../author.php:29 ../author.php:50
+msgid "Contact"
+msgstr ""
+
+#: ../author.php:38 ../framework/classes/themex.user.php:1207
+msgid "Message"
+msgstr ""
+
+#: ../author.php:40
+msgid "Send Message"
+msgstr ""
+
+#: ../comments.php:4
+msgid "Comments"
+msgstr ""
+
+#: ../content-comment.php:26
+msgid "Reply"
+msgstr ""
+
+#: ../content-shop.php:53 ../module-shop.php:31 ../template-shop.php:23
+#, php-format
+msgid "%d Admirer"
+msgid_plural "%d Admirers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../content-shop.php:56 ../module-shop.php:25 ../template-shop.php:17
+#, php-format
+msgid "%d Sale"
+msgid_plural "%d Sales"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../content-shop.php:62 ../template-shop.php:39
+#, php-format
+msgid "%d Rating"
+msgid_plural "%d Ratings"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../framework/classes/themex.core.php:260
+msgid "All changes have been saved"
+msgstr ""
+
+#: ../framework/classes/themex.core.php:286
+msgid "All options have been reset"
+msgstr ""
+
+#: ../framework/classes/themex.core.php:793
+msgid "Files with this extension are not allowed"
+msgstr ""
+
+#: ../framework/classes/themex.core.php:815
+msgid "This file is too large for uploading"
+msgstr ""
+
+#: ../framework/classes/themex.facebook.php:146
+#: ../framework/classes/themex.user.php:1063
+msgid "Registration Complete"
+msgstr ""
+
+#: ../framework/classes/themex.form.php:53
+msgid "Custom Fields"
+msgstr ""
+
+#: ../framework/classes/themex.form.php:189
+#: ../framework/classes/themex.interface.php:641
+#: ../framework/classes/themex.shortcode.php:146
+#: ../framework/classes/themex.sidebar.php:182
+#: ../template-profile-earnings.php:57 ../template-shop-product.php:419
+#: ../template-shop-settings.php:95 ../woocommerce/cart/cart.php:207
+msgid "Remove"
+msgstr ""
+
+#: ../framework/classes/themex.form.php:196
+#: ../framework/classes/themex.interface.php:630
+#: ../framework/classes/themex.shortcode.php:147
+msgid "Add"
+msgstr ""
+
+#: ../framework/classes/themex.form.php:202
+#: ../framework/classes/themex.interface.php:728
+#: ../framework/classes/themex.sidebar.php:88 ../framework/config.php:1106
+#: ../template-shop-product.php:49 ../template-shop-product.php:269
+#: ../template-shop-product.php:290 ../template-shop-products.php:23
+#: ../template-shop-settings.php:29
+#: ../woocommerce/single-product-reviews.php:58
+msgid "Name"
+msgstr ""
+
+#: ../framework/classes/themex.form.php:211
+msgid "String"
+msgstr ""
+
+#: ../framework/classes/themex.form.php:212
+msgid "Select"
+msgstr ""
+
+#: ../framework/classes/themex.form.php:221
+msgid "Options"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:95
+msgid "Insert This Item"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:141
+#: ../framework/templates/index.php:4
+msgid "Theme Options"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:400
+msgid "Browse"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:729 ../header.php:58
+#: ../template-register.php:20 ../woocommerce/myaccount/form-login.php:23
+#: ../woocommerce/single-product-reviews.php:59
+msgid "Email"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:731
+msgid "Comment"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:732
+msgid "Add Comment"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:823 ../framework/config.php:49
+#: ../framework/config.php:58 ../framework/config.php:67
+#: ../framework/config.php:76 ../framework/config.php:85 ../header.php:27
+#: ../woocommerce/checkout/thankyou.php:27
+msgid "My Account"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:825 ../framework/config.php:358
+msgid "Profile"
+msgstr ""
+
+#: ../framework/classes/themex.interface.php:830
+msgid "Archives"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:202
+#: ../framework/classes/themex.shop.php:571
+#: ../framework/classes/themex.woo.php:326
+#: ../framework/classes/themex.woo.php:416 ../framework/functions.php:153
+#: ../template-shop-products.php:39
+msgid "Untitled"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:237
+msgid "Item Approval"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:239
+msgid "Shop Approval"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:241
+msgid "Processed Withdrawal"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:336
+#: ../framework/classes/themex.shop.php:887
+#: ../framework/classes/themex.woo.php:2025
+msgid "Author"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:343 ../framework/config.php:385
+#: ../framework/config.php:683 ../framework/config.php:2272
+#: ../template-shop-membership.php:30
+msgid "Products"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:349
+#: ../framework/classes/themex.user.php:908
+msgid "Orders"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:355 ../template-profile-earnings.php:77
+msgid "Total Revenue"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:360 ../template-profile-earnings.php:82
+msgid "Total Profit"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:365 ../template-profile-earnings.php:86
+msgid "Current Balance"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:370 ../template-profile-earnings.php:91
+#: ../template-profile-referrals.php:28
+msgid "Current Rate"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:616
+msgid "Shop name field is required"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:633
+#: ../framework/classes/themex.shop.php:650
+msgid "This shop category does not exist"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:639
+#: ../framework/classes/themex.shop.php:645
+msgid "Shop category field is required"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:661
+msgid "Shop description field is required"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:689
+msgid "Shop has been successfully saved"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:772
+msgid "\"Amount\" field is required"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:776
+msgid "Amount is larger than balance"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:781
+msgid "Amount is too small for withdrawal"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:787
+msgid "\"Method\" field is required"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:802
+#: ../framework/classes/themex.shop.php:1142
+#: ../framework/classes/themex.shop.php:1190
+#: ../framework/classes/themex.user.php:307
+#: ../framework/classes/themex.user.php:1207
+msgid "field is required"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:804
+#: ../framework/classes/themex.user.php:449
+msgid "Email address is invalid"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:892 ../framework/config.php:989
+#: ../framework/config.php:1025 ../framework/config.php:1105
+#: ../framework/config.php:2184 ../template-profile-earnings.php:29
+#: ../template-profile-referrals.php:48 ../template-shop-order.php:32
+#: ../template-shop-orders.php:24 ../woocommerce/myaccount/my-orders.php:28
+#: ../woocommerce/order/order-details.php:22
+msgid "Date"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:897 ../template-profile-earnings.php:31
+msgid "Amount"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:902 ../template-profile-earnings.php:30
+msgid "Method"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1009
+msgid "Changes have been successfully saved"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1142 ../template-shop.php:79
+#: ../woocommerce/single-product/add-to-cart/simple.php:78
+#: ../woocommerce/single-product/add-to-cart/variable.php:98
+msgid "Question"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1149
+msgid "Item Question"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1152
+msgid "Shop Question"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1167
+msgid "Question has been successfully sent"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1190 ../template-shop.php:98
+msgid "Reason"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1194
+msgid "Shop Report"
+msgstr ""
+
+#: ../framework/classes/themex.shop.php:1207
+msgid "Report has been successfully sent"
+msgstr ""
+
+#: ../framework/classes/themex.shortcode.php:67
+#: ../framework/classes/themex.shortcode.php:156
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../framework/classes/themex.sidebar.php:54 ../framework/config.php:855
+msgid "Default"
+msgstr ""
+
+#: ../framework/classes/themex.sidebar.php:86
+msgid "Add Sidebar"
+msgstr ""
+
+#: ../framework/classes/themex.sidebar.php:198 ../sidebar-shop-right.php:51
+msgid "Pages"
+msgstr ""
+
+#: ../framework/classes/themex.sidebar.php:214 ../framework/config.php:566
+#: ../framework/config.php:593
+msgid "Categories"
+msgstr ""
+
+#: ../framework/classes/themex.style.php:114
+msgid "Custom"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:340
+msgid "Profile has been successfully saved"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:432
+#: ../framework/classes/themex.user.php:1015
+msgid "Password must be at least 4 characters long"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:434
+#: ../framework/classes/themex.user.php:1017
+msgid "Password must be not more than 16 characters long"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:436
+#: ../framework/classes/themex.user.php:1019
+msgid "Password contains invalid characters"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:438
+#: ../framework/classes/themex.user.php:1021
+msgid "Passwords do not match"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:459
+msgid "Current password is incorrect"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:472
+msgid "Settings have been successfully saved"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:559
+msgid "Free"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:867 ../template-profile.php:10
+msgid "My Profile"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:871
+msgid "Address"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:876
+msgid "Links"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:883
+#: ../woocommerce/myaccount/my-orders.php:19
+msgid "My Orders"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:888 ../template-profile-settings.php:10
+msgid "My Settings"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:892
+#: ../template-profile-referrals.php:10
+msgid "My Referrals"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:897 ../framework/config.php:94
+#: ../framework/config.php:103 ../framework/config.php:112
+#: ../framework/config.php:122 ../framework/config.php:131
+#: ../framework/config.php:141 ../framework/config.php:150
+#: ../template-shop-settings.php:10
+msgid "My Shop"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:902
+msgid "Items"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:914
+#: ../woocommerce/cart/cart-shipping.php:55
+msgid "Shipping"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:920 ../framework/config.php:449
+#: ../framework/config.php:2541 ../template-shop-membership.php:22
+msgid "Membership"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:927 ../template-profile-earnings.php:10
+msgid "My Earnings"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:992
+msgid "Verification code is incorrect"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:995
+msgid "Verification code is empty"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1000
+msgid "Please fill in all fields"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1003
+#: ../framework/classes/themex.user.php:1186
+msgid "Invalid email address"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1005
+msgid "This email is already in use"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1009
+msgid "Invalid character used in username"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1011
+msgid "This username is already taken"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1036
+msgid "Registration complete! Check your mailbox to activate the account"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1037
+msgid "Account Confirmation"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1089
+msgid "Incorrect username or password"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1093
+msgid "This account is not activated"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1157
+msgid "Password recovery not allowed"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1178 ../header.php:47
+#: ../template-register.php:63 ../woocommerce/myaccount/form-login.php:58
+msgid "Password Recovery"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1179
+msgid "Password reset link is sent"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1182
+msgid "Error sending email"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1211
+msgid "New Message"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1225
+msgid "Message has been successfully sent"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1247
+msgid "Profile Photo"
+msgstr ""
+
+#: ../framework/classes/themex.user.php:1271
+msgid "Profile Text"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:453
+msgid "Item name field is required"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:468
+#: ../framework/classes/themex.woo.php:485
+msgid "This item category does not exist"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:474
+#: ../framework/classes/themex.woo.php:480
+msgid "Item category field is required"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:708 ../template-shop-product.php:311
+#, php-format
+msgid "Variation #%s"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:786
+msgid "Item has been successfully saved"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:976
+msgid "New Referral"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:1033
+msgid "New Order"
+msgstr ""
+
+#: ../framework/classes/themex.woo.php:1109
+msgid "Order has been marked as completed"
+msgstr ""
+
+#: ../framework/classes/widgets/themex.search.php:6
+msgid "Shows shop search form."
+msgstr ""
+
+#: ../framework/classes/widgets/themex.search.php:7
+#: ../framework/classes/widgets/themex.search.php:15
+#: ../framework/classes/widgets/themex.search.php:20
+#: ../framework/classes/widgets/themex.search.php:44
+msgid "Shop Search"
+msgstr ""
+
+#: ../framework/classes/widgets/themex.search.php:48
+#: ../framework/config.php:990 ../framework/config.php:1056
+#: ../framework/config.php:1061
+msgid "Title"
+msgstr ""
+
+#: ../framework/config.php:31 ../framework/config.php:2106
+msgid "Registration"
+msgstr ""
+
+#: ../framework/config.php:163
+msgid "Inactive"
+msgstr ""
+
+#: ../framework/config.php:172
+msgid "Main Menu"
+msgstr ""
+
+#: ../framework/config.php:177
+msgid "Footer Menu"
+msgstr ""
+
+#: ../framework/config.php:367 ../framework/config.php:423
+#: ../framework/config.php:961 ../framework/config.php:2164
+msgid "Shops"
+msgstr ""
+
+#: ../framework/config.php:376 ../framework/config.php:424 ../module-shop.php:3
+#: ../woocommerce/order/order-details.php:39
+msgid "Shop"
+msgstr ""
+
+#: ../framework/config.php:394 ../framework/config.php:661
+#: ../template-shop-order.php:55 ../woocommerce/cart/cart.php:32
+#: ../woocommerce/cart/cart.php:140 ../woocommerce/order/order-details.php:53
+msgid "Product"
+msgstr ""
+
+#: ../framework/config.php:403
+msgid "Footer"
+msgstr ""
+
+#: ../framework/config.php:425 ../framework/config.php:450
+#: ../framework/config.php:477 ../framework/config.php:504
+#: ../framework/config.php:531
+msgid "Add New"
+msgstr ""
+
+#: ../framework/config.php:426
+msgid "Add New Shop"
+msgstr ""
+
+#: ../framework/config.php:427
+msgid "Edit Shop"
+msgstr ""
+
+#: ../framework/config.php:428
+msgid "New Shop"
+msgstr ""
+
+#: ../framework/config.php:429
+msgid "View Shop"
+msgstr ""
+
+#: ../framework/config.php:430
+msgid "Search Shops"
+msgstr ""
+
+#: ../framework/config.php:431
+msgid "No Shops Found"
+msgstr ""
+
+#: ../framework/config.php:432
+msgid "No Shops Found in Trash"
+msgstr ""
+
+#: ../framework/config.php:441
+msgid "shop"
+msgstr ""
+
+#: ../framework/config.php:448
+msgid "Memberships"
+msgstr ""
+
+#: ../framework/config.php:451
+msgid "Add New Membership"
+msgstr ""
+
+#: ../framework/config.php:452
+msgid "Edit Membership"
+msgstr ""
+
+#: ../framework/config.php:453
+msgid "New Membership"
+msgstr ""
+
+#: ../framework/config.php:454
+msgid "View Membership"
+msgstr ""
+
+#: ../framework/config.php:455
+msgid "Search Memberships"
+msgstr ""
+
+#: ../framework/config.php:456
+msgid "No Memberships Found"
+msgstr ""
+
+#: ../framework/config.php:457
+msgid "No Memberships Found in Trash"
+msgstr ""
+
+#: ../framework/config.php:468
+msgid "membership"
+msgstr ""
+
+#: ../framework/config.php:475
+msgid "Withdrawals"
+msgstr ""
+
+#: ../framework/config.php:476
+msgid "Withdrawal"
+msgstr ""
+
+#: ../framework/config.php:478
+msgid "Add New Withdrawal"
+msgstr ""
+
+#: ../framework/config.php:479
+msgid "Edit Withdrawal"
+msgstr ""
+
+#: ../framework/config.php:480
+msgid "New Withdrawal"
+msgstr ""
+
+#: ../framework/config.php:481
+msgid "View Withdrawal"
+msgstr ""
+
+#: ../framework/config.php:482
+msgid "Search Withdrawals"
+msgstr ""
+
+#: ../framework/config.php:483
+msgid "No Withdrawals Found"
+msgstr ""
+
+#: ../framework/config.php:484
+msgid "No Withdrawals Found in Trash"
+msgstr ""
+
+#: ../framework/config.php:495
+msgid "withdrawal"
+msgstr ""
+
+#: ../framework/config.php:502 ../framework/config.php:1010
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/config.php:503
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/config.php:505
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../framework/config.php:506
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../framework/config.php:507
+msgid "New Testimonial"
+msgstr ""
+
+#: ../framework/config.php:508
+msgid "View Testimonial"
+msgstr ""
+
+#: ../framework/config.php:509
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../framework/config.php:510
+msgid "No Testimonials Found"
+msgstr ""
+
+#: ../framework/config.php:511
+msgid "No Testimonials Found in Trash"
+msgstr ""
+
+#: ../framework/config.php:522
+msgid "testimonial"
+msgstr ""
+
+#: ../framework/config.php:529
+msgid "Slides"
+msgstr ""
+
+#: ../framework/config.php:530
+msgid "Slide"
+msgstr ""
+
+#: ../framework/config.php:532
+msgid "Add New Slide"
+msgstr ""
+
+#: ../framework/config.php:533
+msgid "Edit Slide"
+msgstr ""
+
+#: ../framework/config.php:534
+msgid "New Slide"
+msgstr ""
+
+#: ../framework/config.php:535
+msgid "View Slide"
+msgstr ""
+
+#: ../framework/config.php:536
+msgid "Search Slides"
+msgstr ""
+
+#: ../framework/config.php:537
+msgid "No Slides Found"
+msgstr ""
+
+#: ../framework/config.php:538
+msgid "No Slides Found in Trash"
+msgstr ""
+
+#: ../framework/config.php:549
+msgid "slide"
+msgstr ""
+
+#: ../framework/config.php:564
+msgid "Shop Categories"
+msgstr ""
+
+#: ../framework/config.php:565
+msgid "Shop Category"
+msgstr ""
+
+#: ../framework/config.php:567
+msgid "Search Shop Categories"
+msgstr ""
+
+#: ../framework/config.php:568
+msgid "All Shop Categories"
+msgstr ""
+
+#: ../framework/config.php:569 ../framework/config.php:570
+msgid "Parent Shop Category"
+msgstr ""
+
+#: ../framework/config.php:571
+msgid "Edit Shop Category"
+msgstr ""
+
+#: ../framework/config.php:572
+msgid "Update Shop Category"
+msgstr ""
+
+#: ../framework/config.php:573
+msgid "Add New Shop Category"
+msgstr ""
+
+#: ../framework/config.php:574
+msgid "New Shop Category Name"
+msgstr ""
+
+#: ../framework/config.php:577
+msgid "shops"
+msgstr ""
+
+#: ../framework/config.php:591
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../framework/config.php:592
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../framework/config.php:594
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: ../framework/config.php:595
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: ../framework/config.php:596 ../framework/config.php:597
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: ../framework/config.php:598
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: ../framework/config.php:599
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: ../framework/config.php:600
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: ../framework/config.php:601
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: ../framework/config.php:604
+msgid "testimonials"
+msgstr ""
+
+#: ../framework/config.php:617
+msgid "Shop Details"
+msgstr ""
+
+#: ../framework/config.php:624
+msgid "Custom Rate"
+msgstr ""
+
+#: ../framework/config.php:633
+msgid "Shop Pages"
+msgstr ""
+
+#: ../framework/config.php:639 ../template-shop-settings.php:77
+msgid "About"
+msgstr ""
+
+#: ../framework/config.php:645 ../template-shop-settings.php:81
+msgid "Policies"
+msgstr ""
+
+#: ../framework/config.php:655
+msgid "Membership Options"
+msgstr ""
+
+#: ../framework/config.php:668
+msgid "Period"
+msgstr ""
+
+#: ../framework/config.php:672
+msgid "None"
+msgstr ""
+
+#: ../framework/config.php:673
+msgid "Week"
+msgstr ""
+
+#: ../framework/config.php:674
+msgid "Month"
+msgstr ""
+
+#: ../framework/config.php:675
+msgid "3 Months"
+msgstr ""
+
+#: ../framework/config.php:676
+msgid "6 Months"
+msgstr ""
+
+#: ../framework/config.php:677
+msgid "9 Months"
+msgstr ""
+
+#: ../framework/config.php:678
+msgid "Year"
+msgstr ""
+
+#: ../framework/config.php:690
+msgid "Members"
+msgstr ""
+
+#: ../framework/config.php:700
+msgid "Withdrawal Details"
+msgstr ""
+
+#: ../framework/config.php:715
+msgid "First Name"
+msgstr ""
+
+#: ../framework/config.php:722
+msgid "Last Name"
+msgstr ""
+
+#: ../framework/config.php:729 ../module-search.php:34
+msgid "Country"
+msgstr ""
+
+#: ../framework/config.php:735 ../module-search.php:51
+#: ../woocommerce/cart/shipping-calculator.php:55
+msgid "City"
+msgstr ""
+
+#: ../framework/config.php:743 ../module-links.php:1
+msgid "Facebook"
+msgstr ""
+
+#: ../framework/config.php:748 ../module-links.php:2
+msgid "Twitter"
+msgstr ""
+
+#: ../framework/config.php:753 ../module-links.php:3
+msgid "Google"
+msgstr ""
+
+#: ../framework/config.php:758 ../module-links.php:4
+msgid "Tumblr"
+msgstr ""
+
+#: ../framework/config.php:763 ../module-links.php:5
+msgid "Pinterest"
+msgstr ""
+
+#: ../framework/config.php:768 ../module-links.php:6
+msgid "Instagram"
+msgstr ""
+
+#: ../framework/config.php:773 ../module-links.php:7
+msgid "YouTube"
+msgstr ""
+
+#: ../framework/config.php:783
+msgid "Withdrawal Amount"
+msgstr ""
+
+#: ../framework/config.php:788
+msgid "Withdrawal Method"
+msgstr ""
+
+#: ../framework/config.php:792 ../framework/config.php:2525
+msgid "PayPal"
+msgstr ""
+
+#: ../framework/config.php:793 ../framework/config.php:2526
+msgid "Skrill"
+msgstr ""
+
+#: ../framework/config.php:794 ../framework/config.php:2527
+msgid "SWIFT"
+msgstr ""
+
+#: ../framework/config.php:799
+msgid "PayPal Email"
+msgstr ""
+
+#: ../framework/config.php:806
+msgid "Skrill Email"
+msgstr ""
+
+#: ../framework/config.php:813
+msgid "Account Holder Name"
+msgstr ""
+
+#: ../framework/config.php:818
+msgid "Account Number/IBAN"
+msgstr ""
+
+#: ../framework/config.php:823
+msgid "SWIFT Code"
+msgstr ""
+
+#: ../framework/config.php:828
+msgid "Bank Name"
+msgstr ""
+
+#: ../framework/config.php:833
+msgid "Bank Country"
+msgstr ""
+
+#: ../framework/config.php:847
+msgid "Button"
+msgstr ""
+
+#: ../framework/config.php:852
+msgid "Color"
+msgstr ""
+
+#: ../framework/config.php:856
+msgid "Primary"
+msgstr ""
+
+#: ../framework/config.php:857
+msgid "Secondary"
+msgstr ""
+
+#: ../framework/config.php:858
+msgid "Opaque"
+msgstr ""
+
+#: ../framework/config.php:864
+msgid "Size"
+msgstr ""
+
+#: ../framework/config.php:867
+msgid "Small"
+msgstr ""
+
+#: ../framework/config.php:868
+msgid "Medium"
+msgstr ""
+
+#: ../framework/config.php:869
+msgid "Large"
+msgstr ""
+
+#: ../framework/config.php:875
+msgid "Link"
+msgstr ""
+
+#: ../framework/config.php:881
+msgid "Target"
+msgstr ""
+
+#: ../framework/config.php:884
+msgid "Current Tab"
+msgstr ""
+
+#: ../framework/config.php:885
+msgid "New Tab"
+msgstr ""
+
+#: ../framework/config.php:891 ../framework/config.php:931
+#: ../framework/config.php:952
+msgid "Text"
+msgstr ""
+
+#: ../framework/config.php:900 ../framework/config.php:973
+#: ../framework/config.php:1089
+msgid "Columns"
+msgstr ""
+
+#: ../framework/config.php:907
+msgid "Width"
+msgstr ""
+
+#: ../framework/config.php:910
+msgid "One Sixth"
+msgstr ""
+
+#: ../framework/config.php:911
+msgid "One Sixth Last"
+msgstr ""
+
+#: ../framework/config.php:912
+msgid "One Fourth"
+msgstr ""
+
+#: ../framework/config.php:913
+msgid "One Fourth Last"
+msgstr ""
+
+#: ../framework/config.php:914
+msgid "One Third"
+msgstr ""
+
+#: ../framework/config.php:915
+msgid "One Third Last"
+msgstr ""
+
+#: ../framework/config.php:916
+msgid "Five Twelfths"
+msgstr ""
+
+#: ../framework/config.php:917
+msgid "Five Twelfths Last"
+msgstr ""
+
+#: ../framework/config.php:918
+msgid "One Half"
+msgstr ""
+
+#: ../framework/config.php:919
+msgid "One Half Last"
+msgstr ""
+
+#: ../framework/config.php:920
+msgid "Seven Twelfths"
+msgstr ""
+
+#: ../framework/config.php:921
+msgid "Seven Twelfths Last"
+msgstr ""
+
+#: ../framework/config.php:922
+msgid "Two Thirds"
+msgstr ""
+
+#: ../framework/config.php:923
+msgid "Two Thirds Last"
+msgstr ""
+
+#: ../framework/config.php:924
+msgid "Three Fourths"
+msgstr ""
+
+#: ../framework/config.php:925
+msgid "Three Fourths Last"
+msgstr ""
+
+#: ../framework/config.php:941
+msgid "Section"
+msgstr ""
+
+#: ../framework/config.php:946
+msgid "Background"
+msgstr ""
+
+#: ../framework/config.php:966 ../framework/config.php:1015
+#: ../framework/config.php:1082 ../template-shop-order.php:26
+#: ../woocommerce/order/order-details.php:16
+msgid "Number"
+msgstr ""
+
+#: ../framework/config.php:986 ../framework/config.php:1022
+#: ../framework/config.php:1102
+msgid "Order"
+msgstr ""
+
+#: ../framework/config.php:991 ../framework/config.php:2185
+#: ../woocommerce/single-product-reviews.php:69
+msgid "Rating"
+msgstr ""
+
+#: ../framework/config.php:992 ../framework/config.php:2186
+msgid "Sales"
+msgstr ""
+
+#: ../framework/config.php:993
+msgid "Admirers"
+msgstr ""
+
+#: ../framework/config.php:994 ../framework/config.php:1026
+msgid "Random"
+msgstr ""
+
+#: ../framework/config.php:1000 ../framework/config.php:1032
+#: ../module-search.php:15 ../template-shop-product.php:100
+#: ../template-shop-settings.php:38
+msgid "Category"
+msgstr ""
+
+#: ../framework/config.php:1039
+msgid "Pause"
+msgstr ""
+
+#: ../framework/config.php:1046
+msgid "Speed"
+msgstr ""
+
+#: ../framework/config.php:1067
+msgid "Indent"
+msgstr ""
+
+#: ../framework/config.php:1077
+msgid "Users"
+msgstr ""
+
+#: ../framework/config.php:1107
+msgid "Activity"
+msgstr ""
+
+#: ../framework/config.php:1729
+msgid "Afghanistan"
+msgstr ""
+
+#: ../framework/config.php:1730
+msgid "&#197;land Islands"
+msgstr ""
+
+#: ../framework/config.php:1731
+msgid "Albania"
+msgstr ""
+
+#: ../framework/config.php:1732
+msgid "Algeria"
+msgstr ""
+
+#: ../framework/config.php:1733
+msgid "Andorra"
+msgstr ""
+
+#: ../framework/config.php:1734
+msgid "Angola"
+msgstr ""
+
+#: ../framework/config.php:1735
+msgid "Anguilla"
+msgstr ""
+
+#: ../framework/config.php:1736
+msgid "Antarctica"
+msgstr ""
+
+#: ../framework/config.php:1737
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: ../framework/config.php:1738
+msgid "Argentina"
+msgstr ""
+
+#: ../framework/config.php:1739
+msgid "Armenia"
+msgstr ""
+
+#: ../framework/config.php:1740
+msgid "Aruba"
+msgstr ""
+
+#: ../framework/config.php:1741
+msgid "Australia"
+msgstr ""
+
+#: ../framework/config.php:1742
+msgid "Austria"
+msgstr ""
+
+#: ../framework/config.php:1743
+msgid "Azerbaijan"
+msgstr ""
+
+#: ../framework/config.php:1744
+msgid "Bahamas"
+msgstr ""
+
+#: ../framework/config.php:1745
+msgid "Bahrain"
+msgstr ""
+
+#: ../framework/config.php:1746
+msgid "Bangladesh"
+msgstr ""
+
+#: ../framework/config.php:1747
+msgid "Barbados"
+msgstr ""
+
+#: ../framework/config.php:1748
+msgid "Belarus"
+msgstr ""
+
+#: ../framework/config.php:1749
+msgid "Belgium"
+msgstr ""
+
+#: ../framework/config.php:1750
+msgid "Belau"
+msgstr ""
+
+#: ../framework/config.php:1751
+msgid "Belize"
+msgstr ""
+
+#: ../framework/config.php:1752
+msgid "Benin"
+msgstr ""
+
+#: ../framework/config.php:1753
+msgid "Bermuda"
+msgstr ""
+
+#: ../framework/config.php:1754
+msgid "Bhutan"
+msgstr ""
+
+#: ../framework/config.php:1755
+msgid "Bolivia"
+msgstr ""
+
+#: ../framework/config.php:1756
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: ../framework/config.php:1757
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: ../framework/config.php:1758
+msgid "Botswana"
+msgstr ""
+
+#: ../framework/config.php:1759
+msgid "Bouvet Island"
+msgstr ""
+
+#: ../framework/config.php:1760
+msgid "Brazil"
+msgstr ""
+
+#: ../framework/config.php:1761
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: ../framework/config.php:1762
+msgid "British Virgin Islands"
+msgstr ""
+
+#: ../framework/config.php:1763
+msgid "Brunei"
+msgstr ""
+
+#: ../framework/config.php:1764
+msgid "Bulgaria"
+msgstr ""
+
+#: ../framework/config.php:1765
+msgid "Burkina Faso"
+msgstr ""
+
+#: ../framework/config.php:1766
+msgid "Burundi"
+msgstr ""
+
+#: ../framework/config.php:1767
+msgid "Cambodia"
+msgstr ""
+
+#: ../framework/config.php:1768
+msgid "Cameroon"
+msgstr ""
+
+#: ../framework/config.php:1769
+msgid "Canada"
+msgstr ""
+
+#: ../framework/config.php:1770
+msgid "Cape Verde"
+msgstr ""
+
+#: ../framework/config.php:1771
+msgid "Cayman Islands"
+msgstr ""
+
+#: ../framework/config.php:1772
+msgid "Central African Republic"
+msgstr ""
+
+#: ../framework/config.php:1773
+msgid "Chad"
+msgstr ""
+
+#: ../framework/config.php:1774
+msgid "Chile"
+msgstr ""
+
+#: ../framework/config.php:1775
+msgid "China"
+msgstr ""
+
+#: ../framework/config.php:1776
+msgid "Christmas Island"
+msgstr ""
+
+#: ../framework/config.php:1777
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: ../framework/config.php:1778
+msgid "Colombia"
+msgstr ""
+
+#: ../framework/config.php:1779
+msgid "Comoros"
+msgstr ""
+
+#: ../framework/config.php:1780
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: ../framework/config.php:1781
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: ../framework/config.php:1782
+msgid "Cook Islands"
+msgstr ""
+
+#: ../framework/config.php:1783
+msgid "Costa Rica"
+msgstr ""
+
+#: ../framework/config.php:1784
+msgid "Croatia"
+msgstr ""
+
+#: ../framework/config.php:1785
+msgid "Cuba"
+msgstr ""
+
+#: ../framework/config.php:1786
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: ../framework/config.php:1787
+msgid "Cyprus"
+msgstr ""
+
+#: ../framework/config.php:1788
+msgid "Czech Republic"
+msgstr ""
+
+#: ../framework/config.php:1789
+msgid "Denmark"
+msgstr ""
+
+#: ../framework/config.php:1790
+msgid "Djibouti"
+msgstr ""
+
+#: ../framework/config.php:1791
+msgid "Dominica"
+msgstr ""
+
+#: ../framework/config.php:1792
+msgid "Dominican Republic"
+msgstr ""
+
+#: ../framework/config.php:1793
+msgid "Ecuador"
+msgstr ""
+
+#: ../framework/config.php:1794
+msgid "Egypt"
+msgstr ""
+
+#: ../framework/config.php:1795
+msgid "El Salvador"
+msgstr ""
+
+#: ../framework/config.php:1796
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: ../framework/config.php:1797
+msgid "Eritrea"
+msgstr ""
+
+#: ../framework/config.php:1798
+msgid "Estonia"
+msgstr ""
+
+#: ../framework/config.php:1799
+msgid "Ethiopia"
+msgstr ""
+
+#: ../framework/config.php:1800
+msgid "Falkland Islands"
+msgstr ""
+
+#: ../framework/config.php:1801
+msgid "Faroe Islands"
+msgstr ""
+
+#: ../framework/config.php:1802
+msgid "Fiji"
+msgstr ""
+
+#: ../framework/config.php:1803
+msgid "Finland"
+msgstr ""
+
+#: ../framework/config.php:1804
+msgid "France"
+msgstr ""
+
+#: ../framework/config.php:1805
+msgid "French Guiana"
+msgstr ""
+
+#: ../framework/config.php:1806
+msgid "French Polynesia"
+msgstr ""
+
+#: ../framework/config.php:1807
+msgid "French Southern Territories"
+msgstr ""
+
+#: ../framework/config.php:1808
+msgid "Gabon"
+msgstr ""
+
+#: ../framework/config.php:1809
+msgid "Gambia"
+msgstr ""
+
+#: ../framework/config.php:1810
+msgid "Georgia"
+msgstr ""
+
+#: ../framework/config.php:1811
+msgid "Germany"
+msgstr ""
+
+#: ../framework/config.php:1812
+msgid "Ghana"
+msgstr ""
+
+#: ../framework/config.php:1813
+msgid "Gibraltar"
+msgstr ""
+
+#: ../framework/config.php:1814
+msgid "Greece"
+msgstr ""
+
+#: ../framework/config.php:1815
+msgid "Greenland"
+msgstr ""
+
+#: ../framework/config.php:1816
+msgid "Grenada"
+msgstr ""
+
+#: ../framework/config.php:1817
+msgid "Guadeloupe"
+msgstr ""
+
+#: ../framework/config.php:1818
+msgid "Guatemala"
+msgstr ""
+
+#: ../framework/config.php:1819
+msgid "Guernsey"
+msgstr ""
+
+#: ../framework/config.php:1820
+msgid "Guinea"
+msgstr ""
+
+#: ../framework/config.php:1821
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: ../framework/config.php:1822
+msgid "Guyana"
+msgstr ""
+
+#: ../framework/config.php:1823
+msgid "Haiti"
+msgstr ""
+
+#: ../framework/config.php:1824
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: ../framework/config.php:1825
+msgid "Honduras"
+msgstr ""
+
+#: ../framework/config.php:1826
+msgid "Hong Kong"
+msgstr ""
+
+#: ../framework/config.php:1827
+msgid "Hungary"
+msgstr ""
+
+#: ../framework/config.php:1828
+msgid "Iceland"
+msgstr ""
+
+#: ../framework/config.php:1829
+msgid "India"
+msgstr ""
+
+#: ../framework/config.php:1830
+msgid "Indonesia"
+msgstr ""
+
+#: ../framework/config.php:1831
+msgid "Iran"
+msgstr ""
+
+#: ../framework/config.php:1832
+msgid "Iraq"
+msgstr ""
+
+#: ../framework/config.php:1833
+msgid "Republic of Ireland"
+msgstr ""
+
+#: ../framework/config.php:1834
+msgid "Isle of Man"
+msgstr ""
+
+#: ../framework/config.php:1835
+msgid "Israel"
+msgstr ""
+
+#: ../framework/config.php:1836
+msgid "Italy"
+msgstr ""
+
+#: ../framework/config.php:1837
+msgid "Ivory Coast"
+msgstr ""
+
+#: ../framework/config.php:1838
+msgid "Jamaica"
+msgstr ""
+
+#: ../framework/config.php:1839
+msgid "Japan"
+msgstr ""
+
+#: ../framework/config.php:1840
+msgid "Jersey"
+msgstr ""
+
+#: ../framework/config.php:1841
+msgid "Jordan"
+msgstr ""
+
+#: ../framework/config.php:1842
+msgid "Kazakhstan"
+msgstr ""
+
+#: ../framework/config.php:1843
+msgid "Kenya"
+msgstr ""
+
+#: ../framework/config.php:1844
+msgid "Kiribati"
+msgstr ""
+
+#: ../framework/config.php:1845
+msgid "Kuwait"
+msgstr ""
+
+#: ../framework/config.php:1846
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: ../framework/config.php:1847
+msgid "Laos"
+msgstr ""
+
+#: ../framework/config.php:1848
+msgid "Latvia"
+msgstr ""
+
+#: ../framework/config.php:1849
+msgid "Lebanon"
+msgstr ""
+
+#: ../framework/config.php:1850
+msgid "Lesotho"
+msgstr ""
+
+#: ../framework/config.php:1851
+msgid "Liberia"
+msgstr ""
+
+#: ../framework/config.php:1852
+msgid "Libya"
+msgstr ""
+
+#: ../framework/config.php:1853
+msgid "Liechtenstein"
+msgstr ""
+
+#: ../framework/config.php:1854
+msgid "Lithuania"
+msgstr ""
+
+#: ../framework/config.php:1855
+msgid "Luxembourg"
+msgstr ""
+
+#: ../framework/config.php:1856
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: ../framework/config.php:1857
+msgid "Macedonia"
+msgstr ""
+
+#: ../framework/config.php:1858
+msgid "Madagascar"
+msgstr ""
+
+#: ../framework/config.php:1859
+msgid "Malawi"
+msgstr ""
+
+#: ../framework/config.php:1860
+msgid "Malaysia"
+msgstr ""
+
+#: ../framework/config.php:1861
+msgid "Maldives"
+msgstr ""
+
+#: ../framework/config.php:1862
+msgid "Mali"
+msgstr ""
+
+#: ../framework/config.php:1863
+msgid "Malta"
+msgstr ""
+
+#: ../framework/config.php:1864
+msgid "Marshall Islands"
+msgstr ""
+
+#: ../framework/config.php:1865
+msgid "Martinique"
+msgstr ""
+
+#: ../framework/config.php:1866
+msgid "Mauritania"
+msgstr ""
+
+#: ../framework/config.php:1867
+msgid "Mauritius"
+msgstr ""
+
+#: ../framework/config.php:1868
+msgid "Mayotte"
+msgstr ""
+
+#: ../framework/config.php:1869
+msgid "Mexico"
+msgstr ""
+
+#: ../framework/config.php:1870
+msgid "Micronesia"
+msgstr ""
+
+#: ../framework/config.php:1871
+msgid "Moldova"
+msgstr ""
+
+#: ../framework/config.php:1872
+msgid "Monaco"
+msgstr ""
+
+#: ../framework/config.php:1873
+msgid "Mongolia"
+msgstr ""
+
+#: ../framework/config.php:1874
+msgid "Montenegro"
+msgstr ""
+
+#: ../framework/config.php:1875
+msgid "Montserrat"
+msgstr ""
+
+#: ../framework/config.php:1876
+msgid "Morocco"
+msgstr ""
+
+#: ../framework/config.php:1877
+msgid "Mozambique"
+msgstr ""
+
+#: ../framework/config.php:1878
+msgid "Myanmar"
+msgstr ""
+
+#: ../framework/config.php:1879
+msgid "Namibia"
+msgstr ""
+
+#: ../framework/config.php:1880
+msgid "Nauru"
+msgstr ""
+
+#: ../framework/config.php:1881
+msgid "Nepal"
+msgstr ""
+
+#: ../framework/config.php:1882
+msgid "Netherlands"
+msgstr ""
+
+#: ../framework/config.php:1883
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: ../framework/config.php:1884
+msgid "New Caledonia"
+msgstr ""
+
+#: ../framework/config.php:1885
+msgid "New Zealand"
+msgstr ""
+
+#: ../framework/config.php:1886
+msgid "Nicaragua"
+msgstr ""
+
+#: ../framework/config.php:1887
+msgid "Niger"
+msgstr ""
+
+#: ../framework/config.php:1888
+msgid "Nigeria"
+msgstr ""
+
+#: ../framework/config.php:1889
+msgid "Niue"
+msgstr ""
+
+#: ../framework/config.php:1890
+msgid "Norfolk Island"
+msgstr ""
+
+#: ../framework/config.php:1891
+msgid "North Korea"
+msgstr ""
+
+#: ../framework/config.php:1892
+msgid "Norway"
+msgstr ""
+
+#: ../framework/config.php:1893
+msgid "Oman"
+msgstr ""
+
+#: ../framework/config.php:1894
+msgid "Pakistan"
+msgstr ""
+
+#: ../framework/config.php:1895
+msgid "Palestinian Territory"
+msgstr ""
+
+#: ../framework/config.php:1896
+msgid "Panama"
+msgstr ""
+
+#: ../framework/config.php:1897
+msgid "Papua New Guinea"
+msgstr ""
+
+#: ../framework/config.php:1898
+msgid "Paraguay"
+msgstr ""
+
+#: ../framework/config.php:1899
+msgid "Peru"
+msgstr ""
+
+#: ../framework/config.php:1900
+msgid "Philippines"
+msgstr ""
+
+#: ../framework/config.php:1901
+msgid "Pitcairn"
+msgstr ""
+
+#: ../framework/config.php:1902
+msgid "Poland"
+msgstr ""
+
+#: ../framework/config.php:1903
+msgid "Portugal"
+msgstr ""
+
+#: ../framework/config.php:1904
+msgid "Qatar"
+msgstr ""
+
+#: ../framework/config.php:1905
+msgid "Reunion"
+msgstr ""
+
+#: ../framework/config.php:1906
+msgid "Romania"
+msgstr ""
+
+#: ../framework/config.php:1907
+msgid "Russia"
+msgstr ""
+
+#: ../framework/config.php:1908
+msgid "Rwanda"
+msgstr ""
+
+#: ../framework/config.php:1909
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: ../framework/config.php:1910
+msgid "Saint Helena"
+msgstr ""
+
+#: ../framework/config.php:1911
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: ../framework/config.php:1912
+msgid "Saint Lucia"
+msgstr ""
+
+#: ../framework/config.php:1913
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: ../framework/config.php:1914
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: ../framework/config.php:1915
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: ../framework/config.php:1916
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: ../framework/config.php:1917
+msgid "San Marino"
+msgstr ""
+
+#: ../framework/config.php:1918
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: ../framework/config.php:1919
+msgid "Saudi Arabia"
+msgstr ""
+
+#: ../framework/config.php:1920
+msgid "Senegal"
+msgstr ""
+
+#: ../framework/config.php:1921
+msgid "Serbia"
+msgstr ""
+
+#: ../framework/config.php:1922
+msgid "Seychelles"
+msgstr ""
+
+#: ../framework/config.php:1923
+msgid "Sierra Leone"
+msgstr ""
+
+#: ../framework/config.php:1924
+msgid "Singapore"
+msgstr ""
+
+#: ../framework/config.php:1925
+msgid "Slovakia"
+msgstr ""
+
+#: ../framework/config.php:1926
+msgid "Slovenia"
+msgstr ""
+
+#: ../framework/config.php:1927
+msgid "Solomon Islands"
+msgstr ""
+
+#: ../framework/config.php:1928
+msgid "Somalia"
+msgstr ""
+
+#: ../framework/config.php:1929
+msgid "South Africa"
+msgstr ""
+
+#: ../framework/config.php:1930
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: ../framework/config.php:1931
+msgid "South Korea"
+msgstr ""
+
+#: ../framework/config.php:1932
+msgid "South Sudan"
+msgstr ""
+
+#: ../framework/config.php:1933
+msgid "Spain"
+msgstr ""
+
+#: ../framework/config.php:1934
+msgid "Sri Lanka"
+msgstr ""
+
+#: ../framework/config.php:1935
+msgid "Sudan"
+msgstr ""
+
+#: ../framework/config.php:1936
+msgid "Suriname"
+msgstr ""
+
+#: ../framework/config.php:1937
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: ../framework/config.php:1938
+msgid "Swaziland"
+msgstr ""
+
+#: ../framework/config.php:1939
+msgid "Sweden"
+msgstr ""
+
+#: ../framework/config.php:1940
+msgid "Switzerland"
+msgstr ""
+
+#: ../framework/config.php:1941
+msgid "Syria"
+msgstr ""
+
+#: ../framework/config.php:1942
+msgid "Taiwan"
+msgstr ""
+
+#: ../framework/config.php:1943
+msgid "Tajikistan"
+msgstr ""
+
+#: ../framework/config.php:1944
+msgid "Tanzania"
+msgstr ""
+
+#: ../framework/config.php:1945
+msgid "Thailand"
+msgstr ""
+
+#: ../framework/config.php:1946
+msgid "Timor-Leste"
+msgstr ""
+
+#: ../framework/config.php:1947
+msgid "Togo"
+msgstr ""
+
+#: ../framework/config.php:1948
+msgid "Tokelau"
+msgstr ""
+
+#: ../framework/config.php:1949
+msgid "Tonga"
+msgstr ""
+
+#: ../framework/config.php:1950
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: ../framework/config.php:1951
+msgid "Tunisia"
+msgstr ""
+
+#: ../framework/config.php:1952
+msgid "Turkey"
+msgstr ""
+
+#: ../framework/config.php:1953
+msgid "Turkmenistan"
+msgstr ""
+
+#: ../framework/config.php:1954
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: ../framework/config.php:1955
+msgid "Tuvalu"
+msgstr ""
+
+#: ../framework/config.php:1956
+msgid "Uganda"
+msgstr ""
+
+#: ../framework/config.php:1957
+msgid "Ukraine"
+msgstr ""
+
+#: ../framework/config.php:1958
+msgid "United Arab Emirates"
+msgstr ""
+
+#: ../framework/config.php:1959
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: ../framework/config.php:1960
+msgid "United States (US)"
+msgstr ""
+
+#: ../framework/config.php:1961
+msgid "Uruguay"
+msgstr ""
+
+#: ../framework/config.php:1962
+msgid "Uzbekistan"
+msgstr ""
+
+#: ../framework/config.php:1963
+msgid "Vanuatu"
+msgstr ""
+
+#: ../framework/config.php:1964
+msgid "Vatican"
+msgstr ""
+
+#: ../framework/config.php:1965
+msgid "Venezuela"
+msgstr ""
+
+#: ../framework/config.php:1966
+msgid "Vietnam"
+msgstr ""
+
+#: ../framework/config.php:1967
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: ../framework/config.php:1968
+msgid "Western Sahara"
+msgstr ""
+
+#: ../framework/config.php:1969
+msgid "Western Samoa"
+msgstr ""
+
+#: ../framework/config.php:1970
+msgid "Yemen"
+msgstr ""
+
+#: ../framework/config.php:1971
+msgid "Zambia"
+msgstr ""
+
+#: ../framework/config.php:1972
+msgid "Zimbabwe"
+msgstr ""
+
+#: ../framework/config.php:1981
+msgid "General"
+msgstr ""
+
+#: ../framework/config.php:1986
+msgid "Site Favicon"
+msgstr ""
+
+#: ../framework/config.php:1987
+msgid "Choose an image to replace the default site favicon"
+msgstr ""
+
+#: ../framework/config.php:1993
+msgid "Site Logo"
+msgstr ""
+
+#: ../framework/config.php:1994
+msgid "Choose an image to replace the default theme logo"
+msgstr ""
+
+#: ../framework/config.php:2000
+msgid "Login Logo"
+msgstr ""
+
+#: ../framework/config.php:2001
+msgid "Choose an image to replace the default WordPress login logo"
+msgstr ""
+
+#: ../framework/config.php:2007
+msgid "Copyright Text"
+msgstr ""
+
+#: ../framework/config.php:2008
+msgid "Enter copyright text to show in the theme footer"
+msgstr ""
+
+#: ../framework/config.php:2014
+msgid "Tracking Code"
+msgstr ""
+
+#: ../framework/config.php:2015
+msgid "Enter Google Analytics code to track your site visitors"
+msgstr ""
+
+#: ../framework/config.php:2022
+msgid "Styling"
+msgstr ""
+
+#: ../framework/config.php:2027
+msgid "Primary Color"
+msgstr ""
+
+#: ../framework/config.php:2034
+msgid "Secondary Color"
+msgstr ""
+
+#: ../framework/config.php:2041
+msgid "Background Image"
+msgstr ""
+
+#: ../framework/config.php:2043
+msgid "Choose background image from WordPress media library"
+msgstr ""
+
+#: ../framework/config.php:2048
+msgid "Background Type"
+msgstr ""
+
+#: ../framework/config.php:2052
+msgid "Tiled"
+msgstr ""
+
+#: ../framework/config.php:2053
+msgid "Full Width"
+msgstr ""
+
+#: ../framework/config.php:2058
+msgid "Heading Font"
+msgstr ""
+
+#: ../framework/config.php:2065
+msgid "Content Font"
+msgstr ""
+
+#: ../framework/config.php:2072
+msgid "Custom CSS"
+msgstr ""
+
+#: ../framework/config.php:2073
+msgid "Enter custom CSS code to overwrite the default theme styles"
+msgstr ""
+
+#: ../framework/config.php:2080
+msgid "Slider"
+msgstr ""
+
+#: ../framework/config.php:2085
+msgid "Slider Pause"
+msgstr ""
+
+#: ../framework/config.php:2095
+msgid "Slider Speed"
+msgstr ""
+
+#: ../framework/config.php:2111
+msgid "Enable Email Confirmation"
+msgstr ""
+
+#: ../framework/config.php:2117
+msgid "Enable Captcha Protection"
+msgstr ""
+
+#: ../framework/config.php:2123
+msgid "Enable Facebook Login"
+msgstr ""
+
+#: ../framework/config.php:2129
+msgid "Facebook Application ID"
+msgstr ""
+
+#: ../framework/config.php:2139
+msgid "Facebook Application Secret"
+msgstr ""
+
+#: ../framework/config.php:2149
+msgid "Registration Email"
+msgstr ""
+
+#: ../framework/config.php:2151
+msgid ""
+"Add registration email text, you can use %username%, %password% and %link% "
+"keywords"
+msgstr ""
+
+#: ../framework/config.php:2156
+msgid "Password Reset Email"
+msgstr ""
+
+#: ../framework/config.php:2158
+msgid ""
+"Add password reset email text, you can use %username% and %link% keywords"
+msgstr ""
+
+#: ../framework/config.php:2169
+msgid "Shops Layout"
+msgstr ""
+
+#: ../framework/config.php:2180
+msgid "Shops Order"
+msgstr ""
+
+#: ../framework/config.php:2187
+msgid "Popularity"
+msgstr ""
+
+#: ../framework/config.php:2192
+msgid "Shops Per Page"
+msgstr ""
+
+#: ../framework/config.php:2199
+msgid "Disable Multiple Shops"
+msgstr ""
+
+#: ../framework/config.php:2205
+msgid "Disable Shop Referrals"
+msgstr ""
+
+#: ../framework/config.php:2211
+msgid "Disable Approving Shops"
+msgstr ""
+
+#: ../framework/config.php:2217
+msgid "Disable Custom Shipping"
+msgstr ""
+
+#: ../framework/config.php:2223 ../framework/config.php:2344
+msgid "Enable Multiple Categories"
+msgstr ""
+
+#: ../framework/config.php:2229
+msgid "Hide Empty Shops"
+msgstr ""
+
+#: ../framework/config.php:2235
+msgid "Hide Rating"
+msgstr ""
+
+#: ../framework/config.php:2241
+msgid "Hide Sales"
+msgstr ""
+
+#: ../framework/config.php:2247 ../framework/config.php:2374
+msgid "Hide Favorites"
+msgstr ""
+
+#: ../framework/config.php:2253 ../framework/config.php:2380
+msgid "Hide Questions"
+msgstr ""
+
+#: ../framework/config.php:2259
+msgid "Hide Reports"
+msgstr ""
+
+#: ../framework/config.php:2265 ../sidebar-shop-right.php:58
+msgid "Shop Policies"
+msgstr ""
+
+#: ../framework/config.php:2277
+msgid "Products Layout"
+msgstr ""
+
+#: ../framework/config.php:2288
+msgid "Products View"
+msgstr ""
+
+#: ../framework/config.php:2292
+msgid "Grid"
+msgstr ""
+
+#: ../framework/config.php:2293
+msgid "List"
+msgstr ""
+
+#: ../framework/config.php:2298
+msgid "Products Per Page"
+msgstr ""
+
+#: ../framework/config.php:2305
+msgid "Related Products Number"
+msgstr ""
+
+#: ../framework/config.php:2312
+msgid "Upsell Products Number"
+msgstr ""
+
+#: ../framework/config.php:2319
+msgid "Product Types"
+msgstr ""
+
+#: ../framework/config.php:2323
+msgid "All Types"
+msgstr ""
+
+#: ../framework/config.php:2324 ../template-shop-product.php:85
+msgid "Virtual"
+msgstr ""
+
+#: ../framework/config.php:2325 ../template-shop-product.php:84
+msgid "Physical"
+msgstr ""
+
+#: ../framework/config.php:2330
+msgid "File Extensions"
+msgstr ""
+
+#: ../framework/config.php:2332
+msgid "Enter comma separated file extensions for products"
+msgstr ""
+
+#: ../framework/config.php:2338
+msgid "Disable Approving Products"
+msgstr ""
+
+#: ../framework/config.php:2350
+msgid "Hide Tags"
+msgstr ""
+
+#: ../framework/config.php:2356
+msgid "Hide Price"
+msgstr ""
+
+#: ../framework/config.php:2362
+msgid "Hide Attributes"
+msgstr ""
+
+#: ../framework/config.php:2368
+msgid "Hide Variations"
+msgstr ""
+
+#: ../framework/config.php:2386
+msgid "Hide Order Note"
+msgstr ""
+
+#: ../framework/config.php:2392
+msgid "Hide Order Address"
+msgstr ""
+
+#: ../framework/config.php:2399
+msgid "Posts"
+msgstr ""
+
+#: ../framework/config.php:2404
+msgid "Posts Layout"
+msgstr ""
+
+#: ../framework/config.php:2414
+msgid "Hide Post Author"
+msgstr ""
+
+#: ../framework/config.php:2420
+msgid "Hide Post Date"
+msgstr ""
+
+#: ../framework/config.php:2426
+msgid "Hide Post Image"
+msgstr ""
+
+#: ../framework/config.php:2433
+msgid "Profiles"
+msgstr ""
+
+#: ../framework/config.php:2438
+msgid "Hide Name"
+msgstr ""
+
+#: ../framework/config.php:2444
+msgid "Hide Location"
+msgstr ""
+
+#: ../framework/config.php:2450
+msgid "Hide Date"
+msgstr ""
+
+#: ../framework/config.php:2456
+msgid "Hide Links"
+msgstr ""
+
+#: ../framework/config.php:2462
+msgid "Hide Address"
+msgstr ""
+
+#: ../framework/config.php:2475
+msgid "Payments"
+msgstr ""
+
+#: ../framework/config.php:2480
+msgid "Referral Rate"
+msgstr ""
+
+#: ../framework/config.php:2482
+msgid "Enter affiliate commission rate earned for referred orders"
+msgstr ""
+
+#: ../framework/config.php:2488
+msgid "Minimum Rate"
+msgstr ""
+
+#: ../framework/config.php:2490
+msgid "Enter minimum shop commission rate per order"
+msgstr ""
+
+#: ../framework/config.php:2496
+msgid "Maximum Rate"
+msgstr ""
+
+#: ../framework/config.php:2498
+msgid "Enter maximum shop commission rate per order"
+msgstr ""
+
+#: ../framework/config.php:2504
+msgid "Maximum Revenue"
+msgstr ""
+
+#: ../framework/config.php:2506
+msgid "Enter revenue amount for the maximum commission rate"
+msgstr ""
+
+#: ../framework/config.php:2512
+msgid "Minimum Withdrawal"
+msgstr ""
+
+#: ../framework/config.php:2514
+msgid "Enter minimum withdrawal amount per request"
+msgstr ""
+
+#: ../framework/config.php:2520
+msgid "Withdrawal Methods"
+msgstr ""
+
+#: ../framework/config.php:2522
+msgid ""
+"Select available withdrawal methods, hold the CTRL or CMD key to select "
+"multiple items"
+msgstr ""
+
+#: ../framework/config.php:2546
+msgid "Disable Free Membership"
+msgstr ""
+
+#: ../framework/config.php:2552
+msgid "Free Membership Duration"
+msgstr ""
+
+#: ../framework/config.php:2559
+msgid "Free Products Number"
+msgstr ""
+
+#: ../framework/config.php:2567 ../template-profile-settings.php:20
+msgid "Notifications"
+msgstr ""
+
+#: ../framework/config.php:2572
+msgid "New Message Email"
+msgstr ""
+
+#: ../framework/config.php:2574
+msgid "Add new message email text, you can use %user% and %message% keywords"
+msgstr ""
+
+#: ../framework/config.php:2579
+msgid "New Order Email"
+msgstr ""
+
+#: ../framework/config.php:2581
+msgid "Add new order email text, you can use %username% and %order% keywords"
+msgstr ""
+
+#: ../framework/config.php:2586
+msgid "New Referral Email"
+msgstr ""
+
+#: ../framework/config.php:2588
+msgid ""
+"Add new referral email text, you can use %username% and %order% keywords"
+msgstr ""
+
+#: ../framework/config.php:2593
+msgid "Shop Question Email"
+msgstr ""
+
+#: ../framework/config.php:2595
+msgid ""
+"Add shop question email text, you can use %user%, %shop% and %question% "
+"keywords"
+msgstr ""
+
+#: ../framework/config.php:2600
+msgid "Shop Report Email"
+msgstr ""
+
+#: ../framework/config.php:2602
+msgid ""
+"Add shop report email text, you can use %user%, %shop% and %reason% keywords"
+msgstr ""
+
+#: ../framework/config.php:2607
+msgid "Shop Approval Email"
+msgstr ""
+
+#: ../framework/config.php:2609
+msgid ""
+"Add shop approval email text, you can use %username% and %shop% keywords"
+msgstr ""
+
+#: ../framework/config.php:2614
+msgid "Product Question Email"
+msgstr ""
+
+#: ../framework/config.php:2616
+msgid ""
+"Add product question email text, you can use %user%, %product% and %question"
+"% keywords"
+msgstr ""
+
+#: ../framework/config.php:2621
+msgid "Product Approval Email"
+msgstr ""
+
+#: ../framework/config.php:2623
+msgid ""
+"Add product approval email text, you can use %username% and %product% "
+"keywords"
+msgstr ""
+
+#: ../framework/config.php:2628
+msgid "Processed Withdrawal Email"
+msgstr ""
+
+#: ../framework/config.php:2630
+msgid ""
+"Add processed withdrawal email text, you can use %username%, %method% and "
+"%amount% keywords"
+msgstr ""
+
+#: ../framework/functions.php:95
+msgid "week"
+msgstr ""
+
+#: ../framework/functions.php:99
+msgid "month"
+msgstr ""
+
+#: ../framework/functions.php:103
+msgid "year"
+msgstr ""
+
+#: ../framework/functions.php:107
+msgid "months"
+msgstr ""
+
+#: ../framework/templates/index.php:5 ../framework/templates/index.php:17
+#: ../template-profile-address.php:34 ../template-profile-links.php:34
+#: ../template-profile-settings.php:75 ../template-profile.php:67
+#: ../template-shop-product.php:410 ../template-shop-product.php:415
+#: ../template-shop-settings.php:86 ../template-shop-settings.php:91
+#: ../template-shop-shipping.php:453
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/templates/index.php:16
+msgid "Reset Options"
+msgstr ""
+
+#: ../header.php:26
+msgid "Sign Out"
+msgstr ""
+
+#: ../header.php:29 ../header.php:43 ../template-register.php:50
+#: ../template-register.php:59 ../woocommerce/global/form-login.php:30
+#: ../woocommerce/myaccount/form-login.php:45
+#: ../woocommerce/myaccount/form-login.php:54
+msgid "Sign In"
+msgstr ""
+
+#: ../header.php:31 ../template-register.php:10 ../template-register.php:41
+#: ../woocommerce/myaccount/form-login.php:13
+#: ../woocommerce/myaccount/form-login.php:37
+msgid "Register"
+msgstr ""
+
+#: ../header.php:38 ../template-register.php:15 ../template-register.php:54
+#: ../woocommerce/global/form-login.php:19
+#: ../woocommerce/myaccount/form-login.php:18
+#: ../woocommerce/myaccount/form-login.php:49
+msgid "Username"
+msgstr ""
+
+#: ../header.php:41 ../template-register.php:26 ../template-register.php:57
+#: ../woocommerce/global/form-login.php:24
+#: ../woocommerce/myaccount/form-login.php:29
+#: ../woocommerce/myaccount/form-login.php:52
+msgid "Password"
+msgstr ""
+
+#: ../header.php:45 ../template-register.php:61
+#: ../woocommerce/myaccount/form-login.php:56
+msgid "Sign in with Facebook"
+msgstr ""
+
+#: ../header.php:60
+msgid "Reset Password"
+msgstr ""
+
+#: ../header.php:71
+msgid "Cart"
+msgstr ""
+
+#: ../module-favorites.php:3
+msgid "Favorites"
+msgstr ""
+
+#: ../module-favorites.php:6
+msgid "No items favorited yet."
+msgstr ""
+
+#: ../module-reviews.php:3
+msgid "Reviewed Items"
+msgstr ""
+
+#: ../module-search.php:6
+msgid "Keywords"
+msgstr ""
+
+#: ../module-search.php:73
+msgid "Search"
+msgstr ""
+
+#: ../module-shop.php:6
+msgid "No shop created yet."
+msgstr ""
+
+#: ../module-updates.php:3
+msgid "New Items"
+msgstr ""
+
+#: ../module-updates.php:6
+msgid "No shops favorited yet."
+msgstr ""
+
+#: ../sidebar-profile-left.php:43 ../sidebar-profile-left.php:61
+#: ../sidebar-profile-left.php:75
+msgid "Upload Image"
+msgstr ""
+
+#: ../sidebar-shop-right.php:3
+msgid "Owner"
+msgstr ""
+
+#: ../sidebar-shop-right.php:55
+msgid "About Shop"
+msgstr ""
+
+#: ../template-posts.php:37
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: ../template-posts.php:38
+msgid ""
+"Sorry, no posts matched your search. Try again with some different keywords."
+msgstr ""
+
+#: ../template-profile-address.php:10
+msgid "My Address"
+msgstr ""
+
+#: ../template-profile-address.php:14 ../template-profile-links.php:14
+msgid "There are no fields in this form."
+msgstr ""
+
+#: ../template-profile-earnings.php:14 ../template-profile-referrals.php:14
+msgid "This page does not exist."
+msgstr ""
+
+#: ../template-profile-earnings.php:43
+msgid "via"
+msgstr ""
+
+#: ../template-profile-earnings.php:45
+msgid "to"
+msgstr ""
+
+#: ../template-profile-earnings.php:168
+msgid "Submit Request"
+msgstr ""
+
+#: ../template-profile-links.php:10
+msgid "My Links"
+msgstr ""
+
+#: ../template-profile-referrals.php:20
+msgid "Referral Link"
+msgstr ""
+
+#: ../template-profile-referrals.php:32
+msgid "Clickthroughs"
+msgstr ""
+
+#: ../template-profile-referrals.php:42
+#: ../woocommerce/myaccount/my-orders.php:22
+msgid "No orders made yet."
+msgstr ""
+
+#: ../template-profile-referrals.php:49 ../template-shop-order.php:38
+#: ../template-shop-orders.php:25 ../template-shop-shipping.php:32
+#: ../template-shop-shipping.php:109 ../template-shop-shipping.php:212
+#: ../template-shop-shipping.php:312 ../template-shop-shipping.php:389
+#: ../woocommerce/myaccount/my-orders.php:29
+#: ../woocommerce/order/order-details.php:28
+msgid "Status"
+msgstr ""
+
+#: ../template-profile-referrals.php:50 ../template-shop-order.php:56
+#: ../template-shop-orders.php:26 ../woocommerce/cart/cart.php:35
+#: ../woocommerce/cart/cart.php:143 ../woocommerce/myaccount/my-orders.php:30
+#: ../woocommerce/order/order-details.php:54
+msgid "Total"
+msgstr ""
+
+#: ../template-profile-settings.php:30 ../template-shop-shipping.php:41
+#: ../template-shop-shipping.php:118 ../template-shop-shipping.php:221
+#: ../template-shop-shipping.php:321 ../template-shop-shipping.php:398
+msgid "Enabled"
+msgstr ""
+
+#: ../template-profile-settings.php:31 ../template-shop-shipping.php:42
+#: ../template-shop-shipping.php:119 ../template-shop-shipping.php:222
+#: ../template-shop-shipping.php:322 ../template-shop-shipping.php:399
+msgid "Disabled"
+msgstr ""
+
+#: ../template-profile-settings.php:40
+msgid "Email Address"
+msgstr ""
+
+#: ../template-profile-settings.php:48
+msgid "New Password"
+msgstr ""
+
+#: ../template-profile-settings.php:56
+msgid "Confirm Password"
+msgstr ""
+
+#: ../template-profile-settings.php:65
+msgid "Current Password"
+msgstr ""
+
+#: ../template-register.php:31 ../woocommerce/myaccount/form-login.php:34
+msgid "Repeat Password"
+msgstr ""
+
+#: ../template-shop-membership.php:10
+msgid "Shop Membership"
+msgstr ""
+
+#: ../template-shop-membership.php:14 ../template-shop-order.php:15
+#: ../template-shop-orders.php:14 ../template-shop-product.php:18
+#: ../template-shop-products.php:14 ../template-shop-settings.php:14
+#: ../template-shop-shipping.php:14
+msgid "This shop does not exist."
+msgstr ""
+
+#: ../template-shop-membership.php:26
+msgid "Expires"
+msgstr ""
+
+#: ../template-shop-membership.php:55
+msgid "Subscribe"
+msgstr ""
+
+#: ../template-shop-order.php:11
+msgid "Edit Order"
+msgstr ""
+
+#: ../template-shop-order.php:17
+msgid "This order does not exist."
+msgstr ""
+
+#: ../template-shop-order.php:44
+msgid "Customer"
+msgstr ""
+
+#: ../template-shop-order.php:86 ../woocommerce/order/order-details.php:128
+msgid "Customer Details"
+msgstr ""
+
+#: ../template-shop-order.php:89 ../woocommerce/order/order-details.php:131
+msgid "Email:"
+msgstr ""
+
+#: ../template-shop-order.php:92 ../woocommerce/order/order-details.php:134
+msgid "Phone:"
+msgstr ""
+
+#: ../template-shop-order.php:98 ../woocommerce/order/order-details.php:143
+msgid "Customer Address"
+msgstr ""
+
+#: ../template-shop-order.php:100 ../woocommerce/order/order-details.php:141
+msgid "Billing Address"
+msgstr ""
+
+#: ../template-shop-order.php:108 ../woocommerce/order/order-details.php:151
+msgid "Shipping Address"
+msgstr ""
+
+#: ../template-shop-order.php:116 ../woocommerce/order/order-details.php:159
+msgid "Customer Note"
+msgstr ""
+
+#: ../template-shop-order.php:124 ../template-shop-order.php:136
+#: ../woocommerce/order/order-details.php:170
+msgid "Order Note"
+msgstr ""
+
+#: ../template-shop-order.php:139
+msgid "Complete Order"
+msgstr ""
+
+#: ../template-shop-orders.php:10
+msgid "Shop Orders"
+msgstr ""
+
+#: ../template-shop-orders.php:16 ../template-shop-product.php:20
+#: ../template-shop-products.php:16 ../template-shop-settings.php:16
+msgid "This shop is currently being reviewed."
+msgstr ""
+
+#: ../template-shop-orders.php:18
+msgid "No orders received yet."
+msgstr ""
+
+#: ../template-shop-orders.php:47 ../template-shop-products.php:57
+msgid "Edit"
+msgstr ""
+
+#: ../template-shop-product.php:11
+msgid "Edit Item"
+msgstr ""
+
+#: ../template-shop-product.php:13 ../template-shop-products.php:70
+msgid "Add Item"
+msgstr ""
+
+#: ../template-shop-product.php:22
+msgid "This item does not exist."
+msgstr ""
+
+#: ../template-shop-product.php:24
+msgid "This item is currently being reviewed."
+msgstr ""
+
+#: ../template-shop-product.php:57
+msgid "Images"
+msgstr ""
+
+#: ../template-shop-product.php:60
+msgid "Add Image"
+msgstr ""
+
+#: ../template-shop-product.php:64
+msgid "Remove Image"
+msgstr ""
+
+#: ../template-shop-product.php:75
+msgid "Type"
+msgstr ""
+
+#: ../template-shop-product.php:134
+msgid "Tags"
+msgstr ""
+
+#: ../template-shop-product.php:144 ../template-shop-product.php:348
+#: ../template-shop-product.php:387
+msgid "Regular Price"
+msgstr ""
+
+#: ../template-shop-product.php:152 ../template-shop-product.php:353
+#: ../template-shop-product.php:392
+msgid "Sale Price"
+msgstr ""
+
+#: ../template-shop-product.php:163 ../template-shop-shipping.php:175
+#: ../template-shop-shipping.php:275
+msgid "Shipping Class"
+msgstr ""
+
+#: ../template-shop-product.php:182 ../template-shop-product.php:343
+#: ../template-shop-product.php:382 ../template-shop-products.php:24
+msgid "Stock"
+msgstr ""
+
+#: ../template-shop-product.php:193
+msgid "File"
+msgstr ""
+
+#: ../template-shop-product.php:197
+msgid "Upload File"
+msgstr ""
+
+#: ../template-shop-product.php:243
+msgid "Attributes"
+msgstr ""
+
+#: ../template-shop-product.php:252
+msgid "Edit Attribute"
+msgstr ""
+
+#: ../template-shop-product.php:253
+msgid "Remove Attribute"
+msgstr ""
+
+#: ../template-shop-product.php:258
+msgid "Add Attribute"
+msgstr ""
+
+#: ../template-shop-product.php:274 ../template-shop-product.php:295
+msgid "Options (comma separated)"
+msgstr ""
+
+#: ../template-shop-product.php:306
+msgid "Variations"
+msgstr ""
+
+#: ../template-shop-product.php:311
+msgid "Edit Variation"
+msgstr ""
+
+#: ../template-shop-product.php:312
+msgid "Remove Variation"
+msgstr ""
+
+#: ../template-shop-product.php:317
+msgid "Add Variation"
+msgstr ""
+
+#: ../template-shop-product.php:412 ../template-shop-settings.php:88
+msgid "Submit for Review"
+msgstr ""
+
+#: ../template-shop-product.php:416 ../template-shop-products.php:60
+#: ../template-shop-settings.php:92 ../woocommerce/myaccount/my-orders.php:78
+msgid "View"
+msgstr ""
+
+#: ../template-shop-product.php:430
+msgid "Are you sure you want to permanently remove this item?"
+msgstr ""
+
+#: ../template-shop-product.php:431
+msgid "Remove Item"
+msgstr ""
+
+#: ../template-shop-products.php:10
+msgid "Shop Items"
+msgstr ""
+
+#: ../template-shop-products.php:18
+msgid "No items created yet."
+msgstr ""
+
+#: ../template-shop-products.php:25 ../woocommerce/cart/cart.php:33
+#: ../woocommerce/cart/cart.php:141
+msgid "Price"
+msgstr ""
+
+#: ../template-shop-settings.php:73
+msgid "Description"
+msgstr ""
+
+#: ../template-shop-settings.php:106
+msgid "Are you sure you want to permanently remove this shop?"
+msgstr ""
+
+#: ../template-shop-settings.php:107
+msgid "Remove Shop"
+msgstr ""
+
+#: ../template-shop-shipping.php:10
+msgid "Shop Shipping"
+msgstr ""
+
+#: ../template-shop-shipping.php:52 ../template-shop-shipping.php:129
+#: ../template-shop-shipping.php:232 ../template-shop-shipping.php:332
+#: ../template-shop-shipping.php:409
+msgid "Availability"
+msgstr ""
+
+#: ../template-shop-shipping.php:61 ../template-shop-shipping.php:138
+#: ../template-shop-shipping.php:341 ../template-shop-shipping.php:418
+msgid "All Countries"
+msgstr ""
+
+#: ../template-shop-shipping.php:62 ../template-shop-shipping.php:139
+#: ../template-shop-shipping.php:342 ../template-shop-shipping.php:419
+msgid "Specific Countries"
+msgstr ""
+
+#: ../template-shop-shipping.php:75 ../template-shop-shipping.php:152
+#: ../template-shop-shipping.php:252 ../template-shop-shipping.php:355
+#: ../template-shop-shipping.php:432
+msgid "Countries"
+msgstr ""
+
+#: ../template-shop-shipping.php:87 ../template-shop-shipping.php:164
+#: ../template-shop-shipping.php:264 ../template-shop-shipping.php:367
+#: ../template-shop-shipping.php:444
+msgid "Select Options"
+msgstr ""
+
+#: ../template-shop-shipping.php:94
+msgid "Minimum Amount"
+msgstr ""
+
+#: ../template-shop-shipping.php:176 ../template-shop-shipping.php:276
+#: ../template-shop-shipping.php:374
+msgid "Cost"
+msgstr ""
+
+#: ../template-shop-shipping.php:181 ../template-shop-shipping.php:281
+msgid "All Classes"
+msgstr ""
+
+#: ../template-shop-shipping.php:241
+msgid "Selected Countries"
+msgstr ""
+
+#: ../template-shop-shipping.php:242
+msgid "Excluded Countries"
+msgstr ""
+
+#: ../template-shop.php:53 ../template-shop.php:56 ../template-shop.php:112
+msgid "Favorite"
+msgstr ""
+
+#: ../template-shop.php:53 ../template-shop.php:56
+msgid "Unfavorite"
+msgstr ""
+
+#: ../template-shop.php:61 ../template-shop.php:115
+#: ../woocommerce/single-product/add-to-cart/simple.php:59
+#: ../woocommerce/single-product/add-to-cart/simple.php:66
+#: ../woocommerce/single-product/add-to-cart/variable.php:59
+#: ../woocommerce/single-product/add-to-cart/variable.php:66
+msgid "Ask a Question"
+msgstr ""
+
+#: ../template-shop.php:64 ../template-shop.php:118
+msgid "Send a Report"
+msgstr ""
+
+#: ../template-shop.php:81
+#: ../woocommerce/single-product/add-to-cart/simple.php:80
+#: ../woocommerce/single-product/add-to-cart/variable.php:100
+msgid "Send Question"
+msgstr ""
+
+#: ../template-shop.php:100
+msgid "Send Report"
+msgstr ""
+
+#: ../template-shops.php:58
+msgid "No shops found. Try a different search?"
+msgstr ""
+
+#: ../template-shops.php:59
+msgid ""
+"Sorry, no shops matched your search. Try again with some different keywords."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:14
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:16
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:43
+msgid "Shipping costs will be calculated once you have provided your address."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:45
+msgid ""
+"There are no shipping methods available. Please double check your address, "
+"or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:13
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:17
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:60
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:69
+#, php-format
+msgid "(taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:72
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:22 ../woocommerce/cart/cart.php:133
+msgid "Order from"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:34 ../woocommerce/cart/cart.php:142
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:69 ../woocommerce/cart/cart.php:176
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:100
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:114
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:114
+msgid "Coupon Code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:114
+msgid "Apply"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:118
+msgid "Update"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:208
+msgid "Make Primary"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:16
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:22
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:36
+#: ../woocommerce/cart/shipping-calculator.php:40
+#: ../woocommerce/cart/shipping-calculator.php:50
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:41
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:60
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:63
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:29
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:35
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:14
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:22
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:13
+#: ../woocommerce/myaccount/view-order.php:13
+msgid "View Order"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:17
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:20
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:25
+#: ../woocommerce/myaccount/my-orders.php:63
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:31
+#: ../woocommerce/checkout/thankyou.php:38
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:30
+msgid "Details"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:41
+msgid "Weight"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:50
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:108
+msgid "This product is hidden because of the membership limit."
+msgstr ""
+
+#: ../woocommerce/content-single-product.php:109
+msgid ""
+"Sorry, it is hidden because of the membership limit, upgrade or try removing "
+"a few products."
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:31
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:31
+#: ../woocommerce/loop/add-to-cart.php:34
+#: ../woocommerce/single-product/add-to-cart/simple.php:47
+#: ../woocommerce/single-product/add-to-cart/simple.php:50
+#: ../woocommerce/single-product/add-to-cart/variable.php:53
+#: ../woocommerce/single-product/add-to-cart/variable.php:55
+msgid "Remove from Favorites"
+msgstr ""
+
+#: ../woocommerce/loop/add-to-cart.php:31
+#: ../woocommerce/loop/add-to-cart.php:34
+#: ../woocommerce/loop/add-to-cart.php:38
+#: ../woocommerce/single-product/add-to-cart/simple.php:47
+#: ../woocommerce/single-product/add-to-cart/simple.php:50
+#: ../woocommerce/single-product/add-to-cart/simple.php:63
+#: ../woocommerce/single-product/add-to-cart/variable.php:53
+#: ../woocommerce/single-product/add-to-cart/variable.php:55
+#: ../woocommerce/single-product/add-to-cart/variable.php:63
+msgid "Add to Favorites"
+msgstr ""
+
+#: ../woocommerce/loop/orderby.php:17
+msgid "All"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:15
+#: ../woocommerce/loop/result-count.php:19
+msgid "Grid View"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:16
+#: ../woocommerce/loop/result-count.php:18
+msgid "List View"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:14
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:14
+msgid "My Downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:23
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:71
+msgid "Cancel"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:85
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:18
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:37
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:43
+#: ../woocommerce/single-product-reviews.php:61
+msgid "Add Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:73
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:74
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:81
+msgid "Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:90
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:73
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:21
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:37
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:21
+#, php-format
+msgid "%s Review"
+msgid_plural "%s Reviews"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/single-product/related.php:38
+msgid "Related Items"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:28
+msgid "Buyer"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:33
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:36
+msgid "Additional Items"
+msgstr ""
